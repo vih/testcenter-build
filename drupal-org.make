@@ -3,6 +3,9 @@ core = 7.x
 
 ; Contrib modules
 
+projects[node_clone][version] = 1.0
+projects[node_clone][subdir] = fond
+
 ; Custom modules
 
 projects[testcenter_deploy][type] = "module"
