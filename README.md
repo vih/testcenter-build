@@ -1,13 +1,10 @@
 [testcenter.vih.dk](http://testcenter.vih.dk) [![Build Status](https://secure.travis-ci.org/vih/testcenter-build.png?branch=7.x-1.x)](http://travis-ci.org/vih/testcenter-build)
 ==
 
-Installation profile for fond.vih.dk
-
 Requirements
 ------------
 
 * [drush](http://drupal.org/project/drush)
-* [drush_make](http://drupal.org/project/drush_make)
 
 Installation
 ------------
