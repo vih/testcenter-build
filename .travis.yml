@@ -44,7 +44,7 @@ install:
 
   # Test the current branch
   - cd drupal
-  - drush make --prepare-install profiles/testcenter-build/build-testcenter.make --yes
+  - drush make --prepare-install profiles/testcenter-build/build-testcenter-dev.make --yes
   - drush dl panopoly_demo-1.x-dev
   - cd ../
 
