@@ -1,10 +1,11 @@
 api = 2
 core = 7.x
 
+defaults[projects][subdir] = contrib
+
 ; Contrib modules
 
 projects[node_clone][version] = 1.0
-projects[node_clone][subdir] = fond
 
 ; Custom modules
 
