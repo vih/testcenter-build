@@ -3,6 +3,11 @@ core = 7.x
 
 defaults[projects][subdir] = contrib
 
+; Contrib profiles
+
+projects[panopoly][version] = 1.40
+projects[panopoly][subdir] = ""
+
 ; Contrib modules
 
 projects[node_clone][version] = 1.0
