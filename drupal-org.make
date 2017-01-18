@@ -11,6 +11,18 @@ projects[panopoly][subdir] = ""
 
 ; Contrib modules
 
+projects[addressfield][version] = 1.2
+
+projects[addressfield_tokens][version] = 1.5
+
+projects[colorizer][version] = 1.10
+
+projects[google_analytics][version] = 2.3
+
+projects[i18n][version] = 1.13
+
+projects[logintoboggan][version] = 1.5
+
 projects[mailchimp][version] = 2.13
 
 libraries[mailchimp][download][type] = "get"
@@ -35,6 +47,8 @@ projects[panopoly_seo][subdir] = panopoly
 
 projects[select_or_other][version] = 2.22
 
+projects[variable][version] = 2.5
+
 projects[webform][version] = 4.14
 
 projects[webform_mailchimp][version] = 2.0-beta1
@@ -47,3 +61,16 @@ projects[testcenter_deploy][download][type] = "git"
 projects[testcenter_deploy][download][url] = "https://github.com/vih/testcenter_deploy.git"
 projects[testcenter_deploy][download][branch] = "7.x-1.x"
 projects[testcenter_deploy][download][revision] = "b038218"
+
+; Contrib Themes
+
+projects[radix][version] = 3.0-rc4
+
+projects[radix_colorizer][version] = 1.x-dev
+projects[radix_colorizer][download][type] = git
+projects[radix_colorizer][download][revision] = 29321ae 
+projects[radix_colorizer][download][branch] = 7.x-1.x
+
+projects[radix_stanley][version] = 1.4
+
+projects[radix_views][version] = 1.0
