@@ -9,6 +9,24 @@ projects[panopoly][type] = profile
 projects[panopoly][version] = 1.41
 projects[panopoly][subdir] = ""
 
+projects[panopoly_demo][version] = 1.38
+projects[panopoly_demo][subdir] = panopoly
+
+projects[panopoly_faq][version] = 1.1
+projects[panopoly_faq][subdir] = panopoly
+
+projects[panopoly_news][subdir] = panopoly
+projects[panopoly_news][version] = 1.2
+projects[panopoly_news][patch][2256489] = http://drupal.org/files/issues/issue-2256489.patch
+
+projects[panopoly_seo][version] = 1.0-beta8
+projects[panopoly_seo][subdir] = panopoly
+
+projects[wysiwyg][version] = 2.x-dev
+projects[wysiwyg][download][type] = git
+projects[wysiwyg][download][revision] = ee64524b3edb2aa21098a2309b0736e292010247
+projects[wysiwyg][download][branch] = 7.x-2.x
+
 ; Contrib modules
 
 projects[addressfield][version] = 1.2
@@ -31,19 +49,6 @@ libraries[mailchimp][directory_name] = "mailchimp"
 libraries[mailchimp][destination] = "libraries"
 
 projects[node_clone][version] = 1.0
-
-projects[panopoly_demo][version] = 1.38
-projects[panopoly_demo][subdir] = panopoly
-
-projects[panopoly_faq][version] = 1.1
-projects[panopoly_faq][subdir] = panopoly
-
-projects[panopoly_news][subdir] = panopoly
-projects[panopoly_news][version] = 1.2
-projects[panopoly_news][patch][2256489] = http://drupal.org/files/issues/issue-2256489.patch
-
-projects[panopoly_seo][version] = 1.0-beta8
-projects[panopoly_seo][subdir] = panopoly
 
 projects[select_or_other][version] = 2.22
 
