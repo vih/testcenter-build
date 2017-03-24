@@ -9,18 +9,18 @@ projects[panopoly][type] = profile
 projects[panopoly][version] = 1.43
 projects[panopoly][subdir] = ""
 
-projects[panopoly_demo][version] = 1.43
 projects[panopoly_demo][subdir] = panopoly
+projects[panopoly_demo][version] = 1.43
 
-projects[panopoly_faq][version] = 1.1
 projects[panopoly_faq][subdir] = panopoly
+projects[panopoly_faq][version] = 1.1
 
 projects[panopoly_news][subdir] = panopoly
 projects[panopoly_news][version] = 1.2
 projects[panopoly_news][patch][2256489] = http://drupal.org/files/issues/issue-2256489.patch
 
-projects[panopoly_seo][version] = 1.0-beta9
 projects[panopoly_seo][subdir] = panopoly
+projects[panopoly_seo][version] = 1.0-beta10
 
 projects[wysiwyg][version] = 2.x-dev
 projects[wysiwyg][download][type] = git
