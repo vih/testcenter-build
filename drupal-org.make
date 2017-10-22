@@ -6,10 +6,10 @@ defaults[projects][subdir] = contrib
 ; Contrib profiles
 
 projects[panopoly][type] = profile
-projects[panopoly][version] = 1.46
+projects[panopoly][version] = 1.47
 projects[panopoly][subdir] = ""
 
-projects[panopoly_demo][version] = 1.46
+projects[panopoly_demo][version] = 1.47
 projects[panopoly_demo][subdir] = panopoly
 
 projects[panopoly_faq][version] = 1.1
